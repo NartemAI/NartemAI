@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NartemAI
 FOLLOW & BE FOLLOWED, STAR & BE STARRED.
+- 👋 Hi, I’m @NartemAI
 - 👀 I’m interested in Html, Python and Unity
 - ⚡ Fun fact: I like tea!!
 
