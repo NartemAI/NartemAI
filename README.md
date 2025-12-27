@@ -1,7 +1,7 @@
 FOLLOW & BE FOLLOWED, STAR & BE STARRED.
 - 👋 Hi, I’m @NartemAI
-- 👀 I’m interested in Html, Python and Unity
-- ⚡ Fun fact: I like tea!!
+- 👀 I’m interested in AI, Python and Engineering!
+- ⚡ Fun fact: I like tea!
 
 <!---
 NartemAI/NartemAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
